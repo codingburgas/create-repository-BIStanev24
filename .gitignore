@@ -1,0 +1,18 @@
+.vs/
+Titanic/.vs/
+Titanic/out/
+out/
+
+# Build directories
+out/
+build/
+bin/
+
+# IDE files
+.vs/
+*.user
+*.sln
+*.vcxproj
+
+# Binaries (optional, but usually best to let others download their own)
+deps/glfw/lib-vc2022/
